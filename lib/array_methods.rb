@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   return array.index(value_to_find)
 end
-find_element_index( [6,5,4,3],0)
+find_element_index( [6,5,4,3],3)
 
 def find_max_value(array)
   return array.max
